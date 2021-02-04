@@ -29,7 +29,7 @@ namespace Classİntro
 
             foreach (var kurs in kurslar)
             {
-                Console.WriteLine(kurs.KursAdi + " : " + kurs.Egitmen);
+                Console.WriteLine(kurs.KursAdi + " : " + kurs.Egitmen + " = " + kurs.İzlenmeOrani);
             }
 
         }

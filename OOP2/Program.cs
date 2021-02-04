@@ -29,6 +29,7 @@ namespace OOP2
             musteriManager.Ekle(musteri2);
             musteriManager.Ekle(musteri3);
             musteriManager.Ekle(musteri4);
+            Console.WriteLine(musteri1.Adi + " " + musteri1.SoyAdi + " " + musteri1.TcNo + " " + musteri1.MusteriNo + " " + musteri1.Id);
             
 
         }
